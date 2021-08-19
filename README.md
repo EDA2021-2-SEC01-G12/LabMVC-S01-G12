@@ -1,4 +1,4 @@
-Diego Acosta Corredor - da.acostac1@uniandes - 202110516
+Diego Acosta Corredor - da.acostac1@uniandes.edu.co - 202110516
 Mateo Cote Canal - m.cotec@uniandes.edu.co - 202022609
 
 #ISIS1225 - Estructura de un proyecto
