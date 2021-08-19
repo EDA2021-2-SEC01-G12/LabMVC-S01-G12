@@ -1,3 +1,6 @@
+Diego Acosta Corredor - da.acostac1@uniandes - 202110516
+Mateo Cote Canal - m.cotec@uniandes.edu.co - 202022609
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
